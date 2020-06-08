@@ -1,4 +1,4 @@
-# TreeJS / Parcel - Boilerplate
+# ThreeJS / Parcel - Boilerplate
 
 Three JS project using [Parcel](https://parceljs.org/getting_started.html) to bundle all scripts
 
